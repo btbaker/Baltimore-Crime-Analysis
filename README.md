@@ -1,6 +1,6 @@
 # Baltimore-Crime-Analysis
 Analytic Questions
-1. Between 2010 and 2014, in SE Baltimore, has the total amount of reported crime increased or decreased?
+1. Between 2010 and 2014, in SE Baltimore, has the total amount of reported crime increased or decreased?<br>
 2. Between 2010 and 2014, for each SE Baltimore neighborhood, has the total amount of reported crime increased or decreased?
 3. Between 2010 and 2014, for each SE Baltimore neighborhood, has the total amount of residential reported crime increased or decreased (i.e., minus robbery-commercial)?
 4. Between 2010 and 2014, for each SE Baltimore neighborhood, has each reported crime type increased or decreased?
