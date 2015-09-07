@@ -1,7 +1,7 @@
 # Baltimore-Crime-Analysis
 Data Cleanup<br><br>
-1. Split CrimeDate into separate columns
-2. Split Latitude and Longitude into separate fields and remove parentheses and comma
+1. Split CrimeDate into separate columns<br>
+2. Split Latitude and Longitude into separate fields and remove parentheses and comma<br>
 3. Identify any null fields for Description column<br><br>
 
 Analytic Questions<br><br>
