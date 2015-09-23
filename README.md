@@ -1,8 +1,8 @@
 # Baltimore-Crime-Analysis
 Data Cleanup<br><br>
-1. Split CrimeDate into separate columns<br>
+1. Format CrimeDate column as character<br>
 2. Split Latitude and Longitude into separate fields and remove parentheses and comma<br>
-3. Identify any null fields for Description column<br><br>
+3. Identify any NA for Description column<br><br>
 
 Analytic Questions<br><br>
 1. Between 2010 and 2014, in SE Baltimore, has the total amount of reported crime increased or decreased?<br>
